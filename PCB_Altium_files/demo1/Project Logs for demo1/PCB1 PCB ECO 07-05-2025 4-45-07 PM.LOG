@@ -1,0 +1,13 @@
+Change Component Comment : Designator=JACK 5V/3A Old Comment=JACK DC 5.5 New Comment=5VDC
+Change Component Designator: OldDesignator=BUZZER NewDesignator=LS1
+Change Component Designator: OldDesignator=JACK 5V/3A NewDesignator=JACK DC1
+Change Component Designator: OldDesignator=Keypad NewDesignator=H1
+Change Component Designator: OldDesignator=LCD NewDesignator=H2
+Change Component Designator: OldDesignator=RFID NewDesignator=H3
+Change Component Designator: OldDesignator=SV1 NewDesignator=P1
+Change Component Designator: OldDesignator=SV2 NewDesignator=P2
+Change Component Designator: OldDesignator=SV3 NewDesignator=P3
+Added Pin To Net: NetName=GND Pin=JACK DC1-3
+Added Member To Class: ClassName=Sheet1 Member=Component H3 RFID MFRC522
+Added Member To Class: ClassName=Sheet1 Member=Component JACK DC1 5VDC
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1k
