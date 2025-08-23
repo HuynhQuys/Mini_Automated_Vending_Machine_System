@@ -2,3 +2,5 @@
 **Microcontroller:** ESP32
 
 **Tools:** Altium Designer, Arduino IDE
+
+**Platform:** Google Sheet (Google Apps Script)
